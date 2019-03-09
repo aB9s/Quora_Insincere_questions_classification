@@ -160,3 +160,9 @@ classifier_bow.fit(X_train_bow, y_train)
 
 # predict
 y_pred_bow = classifier_bow.predict(X_test_bow)
+
+
+
+"""""""""""
+ EVALUATION 
+"""""""""""
